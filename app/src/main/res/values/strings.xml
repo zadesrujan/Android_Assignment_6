@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Assignment_6</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="userNameError">error1</string>
+    <string name="passwordError">error2</string>
+    <string name="logInError">error3</string>
+    <string name="welcome_to_the_second_activity">Welcome to the Second Activity</string>
+</resources>
